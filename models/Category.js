@@ -1,0 +1,1 @@
+// categories for products
