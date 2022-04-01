@@ -1,0 +1,7 @@
+config/config.json
+npm-debug.log
+node_modules
+.DS_Store
+.vscode
+.idea
+.env
