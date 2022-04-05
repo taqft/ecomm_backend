@@ -10,5 +10,6 @@ app.use(express.urlencoded({ extended: true }));
 app.use(routes);
 
 sequelize.sync().then(() => {
+  console.log(`Sequelize models synced to MySQL!`)
   app.listen(PORT, () => console.log(`Server listening on PORT ${PORT}`));
 });
