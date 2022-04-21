@@ -2,15 +2,15 @@ const router = require('express').Router();
 const { Category, Product } = require('../../../models');
 
 router.get('/', async (req, res) => {
+  // Get all product categories, sorted by id
   try {
-    // Get all product categories, sorted by id
     const allCategories = await Category.findAll({
       include: [{
         model: Product,
         attributes: ['id', 'product_name', 'price', 'stock', 'category_id'],
         order: ['id', 'ASC'],
       }, ],
-    })
+    });
     res.status(200).json(allCategories);
   } catch (e) {
     res.status(400).json(e);
@@ -18,8 +18,8 @@ router.get('/', async (req, res) => {
 });
 
 router.get('/:id', async (req, res) => {
+  // Get data about a specific category
   try {
-    // Get data about a specific category
     const id = req.params.id;
     // Validate that the request contains an id
     if (!id) {
