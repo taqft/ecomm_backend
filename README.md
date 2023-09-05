@@ -26,7 +26,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/theresaqueryforthat/ecomm_backend">
+  <a href="https://github.com/taqft/ecomm_backend">
     <img src="assets/images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -37,9 +37,9 @@
     <br />
     <a href="https://puu.sh/IW8Qh/18a9ca16d3.mp4">View Demo</a>
     ·
-    <a href="https://github.com/theresaqueryforthat/ecomm_backend/issues">Report Bug</a>
+    <a href="https://github.com/taqft/ecomm_backend/issues">Report Bug</a>
     ·
-    <a href="https://github.com/theresaqueryforthat/ecomm_backend/issues">Request Feature</a>
+    <a href="https://github.com/taqft/ecomm_backend/issues">Request Feature</a>
   </p>
 </div>
 
@@ -57,7 +57,7 @@
 
 * Built Node, Express, and Sequelize, this simple app allows you to interface with an eCommerce API to create and manipulate store items. I worked on this for the understanding of object relational mapping (ORM), and to serve as a base for future improvements and features to make our lives easier.
 
-* This README file was generated with [auto-readme](https://github.com/theresaqueryforthat/auto-readme/)! Go check it out if you're interested in learning more!
+* This README file was generated with [auto-readme](https://github.com/taqft/auto-readme/)! Go check it out if you're interested in learning more!
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -92,7 +92,7 @@ Don't forget to give the project a star if you liked it!
 
 * Have questions?
 * Reach out to me: 
-* https://github.com/theresaqueryforthat/
+* https://github.com/taqft/
 * [ben.koenig512@outlook.com](mailto:ben.koenig512@outlook.com "My contact Email")
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -108,16 +108,16 @@ Don't forget to give the project a star if you liked it!
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/theresaqueryforthat/ecomm_backend.svg?style=for-the-badge
-[contributors-url]: https://github.com/theresaqueryforthat/ecomm_backend/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/theresaqueryforthat/ecomm_backend.svg?style=for-the-badge
-[forks-url]: https://github.com/theresaqueryforthat/ecomm_backend/network/members
-[stars-shield]: https://img.shields.io/github/stars/theresaqueryforthat/ecomm_backend.svg?style=for-the-badge
-[stars-url]: https://github.com/theresaqueryforthat/ecomm_backend/stargazers
-[issues-shield]: https://img.shields.io/github/issues/theresaqueryforthat/ecomm_backend.svg?style=for-the-badge
-[issues-url]: https://github.com/theresaqueryforthat/ecomm_backend/issues
-[license-shield]: https://img.shields.io/github/license/theresaqueryforthat/ecomm_backend.svg?style=for-the-badge&cacheSeconds=3600
-[license-url]: https://github.com/theresaqueryforthat/ecomm_backend/blob/main/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/taqft/ecomm_backend.svg?style=for-the-badge
+[contributors-url]: https://github.com/taqft/ecomm_backend/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/taqft/ecomm_backend.svg?style=for-the-badge
+[forks-url]: https://github.com/taqft/ecomm_backend/network/members
+[stars-shield]: https://img.shields.io/github/stars/taqft/ecomm_backend.svg?style=for-the-badge
+[stars-url]: https://github.com/taqft/ecomm_backend/stargazers
+[issues-shield]: https://img.shields.io/github/issues/taqft/ecomm_backend.svg?style=for-the-badge
+[issues-url]: https://github.com/taqft/ecomm_backend/issues
+[license-shield]: https://img.shields.io/github/license/taqft/ecomm_backend.svg?style=for-the-badge&cacheSeconds=3600
+[license-url]: https://github.com/taqft/ecomm_backend/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [product-screenshot]: assets/images/demo.gif
 [portfolio-shield]: https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white
